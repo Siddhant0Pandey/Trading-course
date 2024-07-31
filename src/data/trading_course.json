@@ -1,0 +1,54 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "Introduction to Forex Trading",
+      "slug": "intro-forex-trading",
+      "description": "Learn the basics of Forex trading, including key terminology and strategies.",
+      "price": 99.99,
+      "instructor": "John Doe",
+      "isFeatured": true,
+      "image": "https://plus.unsplash.com/premium_photo-1670249421324-232b654455d0?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": 2,
+      "title": "Advanced Stock Market Strategies",
+      "slug": "advanced-stock-strategies",
+      "description": "Master advanced stock trading strategies to maximize your profits.",
+      "price": 199.99,
+      "instructor": "Jane Smith",
+      "isFeatured": true,
+      "image": "https://plus.unsplash.com/premium_photo-1661371241897-3202947ace30?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": 3,
+      "title": "Cryptocurrency Trading",
+      "slug": "crypto-trading-beginners",
+      "description": "Get started with cryptocurrency trading and learn essential techniques.",
+      "price": 149.99,
+      "instructor": "Alice Johnson",
+      "isFeatured": true,
+      "image": "https://plus.unsplash.com/premium_photo-1681487464375-7cde580bf4ec?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": 4,
+      "title": "Day Trading Techniques",
+      "slug": "day-trading-techniques",
+      "description": "Explore effective day trading techniques to capitalize on market movements.",
+      "price": 129.99,
+      "instructor": "Bob Lee",
+      "isFeatured": true,
+      "image": "https://plus.unsplash.com/premium_vector-1682309298532-095099b5b4a3?q=80&w=1800&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": 5,
+      "title": "Options Trading Explained",
+      "slug": "options-trading-explained",
+      "description": "Understand options trading and how to use it to hedge risks or speculate on price movements.",
+      "price": 179.99,
+      "instructor": "Catherine Green",
+      "isFeatured": true,
+      "image": "https://plus.unsplash.com/premium_vector-1689096940590-c9c36af490c8?q=80&w=1800&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D "
+    }
+  ]
+}
