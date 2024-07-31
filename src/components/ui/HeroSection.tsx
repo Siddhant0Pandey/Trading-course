@@ -19,11 +19,11 @@ export default function HeroSection() {
           particleColor="#FFFFFF"
         />
         <p className="mt-4 font-normal text-base md:text-lg text-white max-w-lg mx-auto">
-          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Cum illum
-          iusto dicta voluptate aperiam quidem obcaecati corrupti perspiciatis
-          aut labore qui voluptatem impedit ab pariatur minus aliquam, vitae
-          adipisci aspernatur suscipit soluta voluptates voluptatum! Praesentium
-          nemo iusto eaque laudantium consectetur.
+          This site showcases a UI designed to explore and demonstrate the
+          capabilities of the Next.js framework, integrated with the Accernity
+          UI animation library. It serves as a practical project to gain
+          hands-on experience with modern web development technologies and
+          create engaging user interfaces.
         </p>
         <div className="mt-8">
           <Link href="/courses">
